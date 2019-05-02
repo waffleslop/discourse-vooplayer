@@ -1,0 +1,2 @@
+Discourse.Markdown.whiteListTag("div", "style", /[a-z]+/);
+Discourse.Markdown.whiteListTag("iframe", "class", /[a-z]+/);
