@@ -4,4 +4,4 @@
 # authors: waffleslop
 # url: http://localhost.com:4000/ 
 
-register_asset "javascripts/vooplayer.js.es6", :server_side
+register_asset "javascript/vooplayer.js.es6", :server_side
